@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @saulnyongesa
-- 👀 I’m interested in becoming one of the best programmers in the world, I want to explore the world of computer in a deeper look.
-- 🌱 I’m currently learning computer science at Kibabii University in Bungoma county, Kenya.
-- 💞️ I’m looking to collaborate on various fields that incorporates computer devices.
+- 👀 I’m interested in becoming one of the best programmers in the world, I want to explore the world of computing in deeper.
+- 🌱 I’m currently a computer science student at Kibabii University kenya.
 - 📫 How to reach me: email, saulnyongesa92@gmail.com or saulnyongesa4@gmail.com or WhatsApp 0706582122.
 
 <!---
