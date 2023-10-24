@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @saulnyongesa
-- 👀 I’m a sofware developer. I develop web apps. I have skills in javascript,kotlin,jave and python.
-- 🌱 I’m currently a computer science student at Kibabii University kenya.
-- 📫 How to reach me: email, saulnyongesa92@gmail.com or saulnyongesa4@gmail.com or WhatsApp 0708560861.
+- 👀 I’m a software developer. I have specialized in Django.
+- 🌱 I’m currently a student at Kibabii University, I'm taking a bachelor's degree in computer science.
+- 📫 My contacts are;
+-  emails: saulnyongesa92@gmail.com or saulnyongesa4@gmail.com
+-  WhatsApp: 0708560861.
 
 <!---
 saulnyongesa/saulnyongesa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
